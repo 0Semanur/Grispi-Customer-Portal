@@ -1,0 +1,5 @@
+Konu,Açıklama,Öncelik,Durum,Kategori,Müşteri E-postası,Atanan Kişi,Etiketler,Bitiş Tarihi
+"Giriş problemi","Kullanıcı sisteme giriş yapamıyor","Yüksek","Açık","Teknik Destek","ali.kaya@example.com","Mehmet Demir","login,acil","2025-09-10"
+"Fatura hatası","Fatura tutarı yanlış görünüyor","Orta","Beklemede","Finans","ayse.yilmaz@example.com","Elif Yıldız","fatura","2025-09-15"
+"Yeni özellik talebi","Mobil uygulamada karanlık mod olsun","Düşük","Açık","Geliştirme","mehmet.arslan@example.com","Ahmet Çelik","feature-request,ui","2025-09-30"
+"Şifre sıfırlama","Müşteri şifresini unuttu","Yüksek","Çözüldü","Teknik Destek","zeynep.kara@example.com","Mehmet Demir","şifre,acil","2025-09-02"

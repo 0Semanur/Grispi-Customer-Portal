@@ -1,0 +1,120 @@
+.selected-card {
+  border: 2px solid #6A1B9A !important;
+  box-shadow: 0 4px 12px rgba(106, 27, 154, 0.15);
+}
+
+.selected-card:hover {
+  border: 2px solid #6A1B9A !important;
+}
+
+.ant-upload-drag:hover {
+  border-color: #6A1B9A;
+}
+
+.ant-upload-drag.ant-upload-drag-hover {
+  border-color: #6A1B9A;
+}
+
+.ant-steps-item-finish .ant-steps-item-icon {
+  background-color: #6A1B9A;
+  border-color: #6A1B9A;
+}
+
+.ant-steps-item-process .ant-steps-item-icon {
+  background-color: #6A1B9A;
+  border-color: #6A1B9A;
+}
+
+.ant-progress-bg {
+  background-color: #6A1B9A !important;
+}
+
+.ant-table-thead > tr > th {
+  background-color: #fafafa;
+  font-weight: 600;
+}
+
+.ant-collapse-header {
+  font-weight: 500;
+}
+
+pre {
+  font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+  font-size: 12px;
+  line-height: 1.4;
+}
+
+/* Import Mapping Specific Styles */
+.required-field-mapped {
+  background-color: #f6ffed !important;
+  border-left: 3px solid #52c41a;
+}
+
+.ant-table-tbody > tr:hover.required-field-mapped {
+  background-color: #f6ffed !important;
+}
+
+.ant-select-selector {
+  border-radius: 6px !important;
+}
+
+.ant-select-focused .ant-select-selector {
+  border-color: #6A1B9A !important;
+  box-shadow: 0 0 0 2px rgba(106, 27, 154, 0.2) !important;
+}
+
+.ant-card-small > .ant-card-head {
+  min-height: 38px;
+  padding: 0 12px;
+  font-size: 14px;
+}
+
+.ant-card-small > .ant-card-body {
+  padding: 12px;
+}
+
+.ant-progress-inner {
+  background-color: #f0f0f0 !important;
+}
+
+.ant-alert-info {
+  border: 1px solid #d6e4ff;
+  background-color: #f6f9ff;
+}
+
+.ant-alert-success {
+  border: 1px solid #b7eb8f;
+  background-color: #f6ffed;
+}
+
+.ant-alert-warning {
+  border: 1px solid #ffe58f;
+  background-color: #fffbe6;
+}
+
+/* Tooltip improvements */
+.ant-tooltip-inner {
+  background-color: #6A1B9A;
+  border-radius: 6px;
+}
+
+.ant-tooltip-arrow::before {
+  background-color: #6A1B9A;
+}
+
+/* Table row hover effects */
+.ant-table-tbody > tr:hover > td {
+  background-color: #f5f5f5 !important;
+}
+
+/* Button hover effects */
+.ant-btn-primary:hover {
+  background-color: #531285 !important;
+  border-color: #531285 !important;
+}
+
+/* Tag improvements */
+.ant-tag {
+  border-radius: 4px;
+  font-weight: 500;
+}

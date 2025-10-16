@@ -1,0 +1,113 @@
+/* Global Styles */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+}
+
+#root {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+
+/* Layout Styles */
+.layout {
+  min-height: 100vh;
+}
+
+.site-layout-content {
+  background: #fff;
+  padding: 24px;
+  min-height: 280px;
+  border-radius: 2px;
+}
+
+/* Header Styles */
+.ant-layout-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 24px;
+}
+
+/* Table Styles */
+.ant-table-wrapper {
+  background: white;
+  border-radius: 4px;
+}
+
+/* Card Styles */
+.ticket-card {
+  margin-bottom: 16px;
+  transition: all 0.3s;
+}
+
+.ticket-card:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+/* Form Styles */
+.ant-form-item-label > label {
+  font-weight: 500;
+}
+
+/* Message History Styles */
+.message-user {
+  background-color: #f0f8ff;
+  border-left: 4px solid #1677ff;
+}
+
+.message-agent {
+  background-color: #fff;
+  border-left: 4px solid #52c41a;
+}
+
+/* Profile Page Styles */
+.profile-card {
+  margin-bottom: 24px;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.profile-card .ant-card-head {
+  background-color: #f9f9f9;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.profile-card .ant-card-head-title {
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.profile-card .ant-card-extra {
+  color: #6A1B9A;
+  cursor: pointer;
+}
+
+.profile-card .ant-card-extra:hover {
+  color: #8E24AA;
+}
+
+/* Avatar Styles */
+.ant-avatar-lg {
+  font-size: 24px;
+}
+
+/* Dropdown Menu Styles */
+.ant-dropdown-menu-item:hover {
+  background-color: #f0f0f0;
+}
+
+/* Button Styles */
+.ant-btn-primary {
+  background-color: #6A1B9A;
+  border-color: #6A1B9A;
+}
+
+.ant-btn-primary:hover,
+.ant-btn-primary:focus {
+  background-color: #8E24AA;
+  border-color: #8E24AA;
+}

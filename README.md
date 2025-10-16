@@ -97,11 +97,3 @@ Notlar:
 - React Router
 - XLSX (Excel işleme)
 
-## Lisans
-MIT
-
----
-
-### GitHub Description (kısa açıklama)
-
-React + Vite ile geliştirilmiş Grispi Müşteri Portalı demosu: talepler listesi/detayı, müşteri–agent konuşmaları, CSV/Excel içe aktarma akışı ve mock login içerir.

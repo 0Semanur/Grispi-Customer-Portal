@@ -1,15 +1,4 @@
-
-
-
 https://github.com/user-attachments/assets/7fb8374e-c31a-4b24-ad98-19c056f689f9
-
-
-
-
-<img width="1920" height="939" alt="image" src="https://github.com/user-attachments/assets/cdc28995-d946-4ce8-abbb-a735b7ed3c95" />
-<img width="1900" height="940" alt="image" src="https://github.com/user-attachments/assets/326bc28b-2830-4fad-92f9-5989a8f5f2f8" />
-<img width="1920" height="900" alt="image" src="https://github.com/user-attachments/assets/40e5ef15-2b7b-48d3-a17c-60debbdbb0b5" />
-<img width="1876" height="904" alt="image" src="https://github.com/user-attachments/assets/e00dace3-b208-42e8-b8b5-f608abb6941e" />
 
 # Grispi Müşteri Portalı (Frontend)
 
